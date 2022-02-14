@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoThatsCrazy
-- 👀 I’m interested in ...web development (front-end, UI/UX), React, Node JS, smart contract writing, Fintech, and anything else that will help me get better along this journey.
+- 👀 I’m interested in ...web development (front-end, UI/UX), React, Node JS, smart contract writing, Fintech, networks, and anything else that will help me get better along this journey.
           Learning doesn't stop!
 - 🌱 I’m currently learning ...the basics HTML, CSS, JS in my bootcamp. I'm also learning solidity on the side.
 
